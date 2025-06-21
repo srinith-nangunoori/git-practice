@@ -1,7 +1,7 @@
 this is the first line :
 
 	now you should make a merge conflict good luck
-
-
+  
+  
 
 		this will be the line with merge error grammar by B  
