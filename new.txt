@@ -1,3 +1,7 @@
 this is the first line :
 
-	now you should make a merge conflict good luck 
+	now you should make a merge conflict good luck
+
+
+
+		this is the line that will cause the merge conflict and grammar by A  
